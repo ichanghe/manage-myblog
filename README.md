@@ -1,6 +1,6 @@
 # manage-myblog
 ## 博客的后台管理系统
-- 前端技术栈:vue admin 管理后台,vue.js,vuex
+- 前端技术栈:vue-element-admin 管理后台,vue.js,vuex
 - 后端技术栈:Koa2,mysql,redis
 目前的代码是前端部分代码,后台代码后期会分享出来
 ## vue-element-admin框架简介
